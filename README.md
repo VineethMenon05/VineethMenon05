@@ -1,6 +1,13 @@
 # 💫 About Me:
 🔭 Building backend systems using Python<br>🌱 Learning advanced backend & system design<br>🤝 Open to collaborating on API-based projects<br>💬 Ask me about Python, APIs, and databases<br>⚡ Fun fact: I love turning ideas into working backend systems<br>
 
+## 🚀 Featured Projects
+
+- 🧠 Smart ID Attendance System (AI + IoT + Flask)
+- 🤖 LangChain AI Assistant (LLM + Gemini API)
+- 🍔 Food Ordering Web App (Flask + SQLite)
+- 🎯 Facial Recognition System (OpenCV)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/menon_vineeth_555) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vineeth-menon-09b91128) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vineethmenon03@gmail.com) 
