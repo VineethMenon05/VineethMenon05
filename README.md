@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 Building backend systems using Python<br>🌱 Learning advanced backend & system design<br>🤝 Open to collaborating on API-based projects<br>💬 Ask me about Python, APIs, and databases<br>⚡ Fun fact: I love turning ideas into working backend systems<br>
+
+Hi 👋 I'm Vineeth — a backend developer focused on building scalable and intelligent systems.
+
+- 🧠 Strong foundation in **Python, Flask, and REST APIs**
+- 🤖 Passionate about **AI-powered applications and Computer Vision**
+- 🔌 Built real-world systems integrating **Face Recognition + IoT (RFID)**
+- ☁️ Worked with **Google Apps Script for cloud-based data pipelines**
+- 🏗️ Interested in **system design, backend architecture, and performance optimization**
+- ⚡ Currently learning **FastAPI, LangChain, and production-level backend systems**
+- 🤝 Open to **internships and developer opportunities**
+
+🚀 I focus on building projects that combine **AI + Backend + Real-world impact** 
 
 ## 🚀 Featured Projects
 
