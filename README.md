@@ -6,7 +6,7 @@ Hi 👋 I'm Vineeth — a backend developer focused on building scalable and int
 - 🤖 Passionate about **AI-powered applications and Computer Vision**
 - 🔌 Built real-world systems integrating **Face Recognition + IoT (RFID)**
 - ☁️ Worked with **Google Apps Script for cloud-based data pipelines**
-- 📄 Published research (IJCRT) on SmartID — [View Paper]([link_here](https://github.com/VineethMenon05/smartid-attendance-system/raw/main/research-paper/Smart_ID_Attendance_System_Research_Paper.pdf))
+- 📄 Published research (IJCRT) on SmartID — [View Paper]([your-link-here](https://github.com/VineethMenon05/smartid-attendance-system/raw/main/research-paper/Smart_ID_Attendance_System_Research_Paper.pdf))
 - 🏗️ Interested in **system design, backend architecture, and performance optimization**
 - ⚡ Currently learning **FastAPI, LangChain, and production-level backend systems**
 - 🤝 Open to **internships and developer opportunities**
