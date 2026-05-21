@@ -15,7 +15,7 @@ Hi 👋 I'm Vineeth — a backend developer focused on building scalable and int
 
 ## 🚀 Featured Projects
 
-- 🧠 Smart ID Attendance System (AI + IoT + Flask)
+- 🧠 Smart ID Attendance System (AI + IoT + Cloud + Flask)
 - 🤖 LangChain AI Assistant (LLM + Gemini API)
 - 🍔 Food Ordering Web App (Flask + SQLite)
 - 🎯 Facial Recognition System (OpenCV)
