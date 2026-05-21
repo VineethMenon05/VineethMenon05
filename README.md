@@ -13,6 +13,12 @@ Hi 👋 I'm Vineeth — a backend developer focused on building scalable and int
 
 🚀 I focus on building projects that combine **AI + Backend + Real-world impact** 
 
+
+## 🏆 Achievements
+-🏆 Secured Global Rank 9610 in TCS CodeVita Season 13 and demonstrated strong competitive programming and problem-solving skills.
+-📜 Earned TCS CodeVita Season 13 Rank Certificate for achieving Global Rank 9610.
+
+  
 ## 🚀 Featured Projects
 
 - 🧠 Smart ID Attendance System (AI + IoT + Cloud + Flask)
