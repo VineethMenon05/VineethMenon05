@@ -16,6 +16,7 @@ Hi 👋 I'm Vineeth — a backend developer focused on building scalable and int
 
 ## 🏆 Achievements
 -🏆 Secured Global Rank 9610 in TCS CodeVita Season 13 and demonstrated strong competitive programming and problem-solving skills.
+
 -📜 Earned TCS CodeVita Season 13 Rank Certificate for achieving Global Rank 9610.
 
   
